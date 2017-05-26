@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Unreal\\.android\\build-cache\\9ee040d3f5d9e586e88fd00f2741320a9fa095ac\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Unreal\\.android\\build-cache\\9ee040d3f5d9e586e88fd00f2741320a9fa095ac\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Unreal\\.android\\build-cache\\9ee040d3f5d9e586e88fd00f2741320a9fa095ac\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Unreal\\.android\\build-cache\\9ee040d3f5d9e586e88fd00f2741320a9fa095ac\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

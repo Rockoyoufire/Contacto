@@ -1,0 +1,7 @@
+#Fri May 26 08:02:57 CDT 2017
+base.0=C\:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_07d92a4610d42a5fb5ecc2854638b985c7967550
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_46646aa4f94d533312f6b09f3cf8a3e6ffa534d0\\classes.dex
+base.1=C\:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_46646aa4f94d533312f6b09f3cf8a3e6ffa534d0
+file.0=C\:\\Users\\Unreal\\Documents\\MisContactos-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_07d92a4610d42a5fb5ecc2854638b985c7967550\\classes.dex

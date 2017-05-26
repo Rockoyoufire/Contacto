@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:5:22-66
+application
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Unreal\.android\build-cache\9ee040d3f5d9e586e88fd00f2741320a9fa095ac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Unreal\.android\build-cache\1100fc40e0e0a183bc205e2fe3891b1dd7902252\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Unreal\.android\build-cache\4f1439470c22aa926d0bfe433cddfc58420da2e7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Unreal\.android\build-cache\236c96c10c36a673ec1dcf47aab60ede242fe58a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Unreal\.android\build-cache\c7c120e1890be682335412817b924aaff06e053a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Unreal\.android\build-cache\62bd0de960ea8ca3b6456c3c382544775a5a18de\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Unreal\.android\build-cache\54df739d8eedc06cb9f4bae1c5faf619ce9d4b8e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Unreal\.android\build-cache\7c6388b2566936642eddc6f4bb16a8e8ed6a164f\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Unreal\.android\build-cache\052178f52699889258f85d2c58366089ea20b5d1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Unreal\.android\build-cache\29ca6fce5ff347783a10b77da13067d85d79c11c\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.arturopacheco.miscontactos.MainActivity
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.arturopacheco.miscontactos.DetallesContacto
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.arturopacheco.miscontactos.Main2Activity
+ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml:22:19-48
+uses-sdk
+INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Unreal\.android\build-cache\9ee040d3f5d9e586e88fd00f2741320a9fa095ac\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Unreal\.android\build-cache\1100fc40e0e0a183bc205e2fe3891b1dd7902252\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Unreal\.android\build-cache\4f1439470c22aa926d0bfe433cddfc58420da2e7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Unreal\.android\build-cache\236c96c10c36a673ec1dcf47aab60ede242fe58a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Unreal\.android\build-cache\c7c120e1890be682335412817b924aaff06e053a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Unreal\.android\build-cache\62bd0de960ea8ca3b6456c3c382544775a5a18de\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Unreal\.android\build-cache\54df739d8eedc06cb9f4bae1c5faf619ce9d4b8e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Unreal\.android\build-cache\7c6388b2566936642eddc6f4bb16a8e8ed6a164f\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Unreal\.android\build-cache\052178f52699889258f85d2c58366089ea20b5d1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Unreal\.android\build-cache\29ca6fce5ff347783a10b77da13067d85d79c11c\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Unreal\.android\build-cache\9ee040d3f5d9e586e88fd00f2741320a9fa095ac\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Unreal\Documents\MisContactos-master\app\src\main\AndroidManifest.xml
